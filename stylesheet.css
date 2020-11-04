@@ -1,0 +1,41 @@
+
+.mainForm{
+    margin: 20px auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #da6252;
+
+}
+.sticker{
+    float: right;
+    top: 100px;
+    right: 50px;
+}
+
+button{
+    background-color: #da6252;
+    color: #ffffff;
+    border: 2px solid white;
+    border-radius: 4px;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color: #ffffff;
+    color: #da6252;
+    border: 2px solid #da6252;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.navbarMain{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #da6252;
+    color: #ffffff;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    text-align: center;
+
+}

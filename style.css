@@ -1,0 +1,124 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+.loginBody, .registerBody{
+      background: url('./images/background.jpeg') no-repeat center center/cover;
+      height: 100vh;
+      width: 100%;
+}
+form{
+    width: 40%;
+    margin: 3% auto;
+    text-align: center;
+}
+input{
+    margin: 30px auto 60px auto;
+    display: block;   
+}
+.mainHeading{
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+    margin-top: 3%;
+    margin-left: 700px;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.registerBox ,.loginBox {
+    margin-top: 10%;
+    margin-left: 400px;
+
+}
+
+button{
+    background-color: #8da7ee;
+    color: #ffffff;
+    border: 2px solid white;
+    border-radius: 4px;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color: #ffffff;
+    color: #8da7ee;
+    border: 2px solid #8da7ee;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.registerHere{
+    margin: 15px;
+}
+
+.loginHere{
+    margin: 100px 10px;
+}
+.loginHere a, .registerHere a{
+    color: #ffffff;
+    font-size: 20px;
+}
+button
+{
+    margin-right: 30px;
+}
+.goToHome{
+    background-color: #8da7ee;
+    color: #ffffff;
+    font-size: 2rem;
+    padding: 7px;
+    margin-right: 10px;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+}
+.goToHome:hover{
+    background-color: #ffffff;
+    color: #8da7ee;
+    border:2px solid #8da7ee;
+    border-radius: 4px;
+
+}
+/* Home page css */
+.navbarMain{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #da6252;
+}
+.nav-item{
+  padding-right: 20px ;
+}
+.nav-link{
+    color: white;
+}
+.info{
+    color: #000000;
+   
+}
+.text-center{
+    text-align: center;
+}
+.mainHeading2{
+    color: #da6252;
+    text-align: center;
+    font-size: 3rem;
+    margin: 30px;
+    font-weight: bold;
+}
+.content{
+    padding: 5px;
+    margin: 15px;
+    font-size: 1.1rem;
+}
+
+.goToForm{
+    background-color: #da6252;
+    color: #ffffff;
+    font-size: 2rem;
+    
+}
+.goToForm:hover{
+    background-color: #ffffff;
+    color: #da6252;
+    border:2px solid #da6252;
+}
+
